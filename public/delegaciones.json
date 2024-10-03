@@ -1,0 +1,58 @@
+[
+    {
+        "_id": {
+            "$oid": "66a3d90cc61b85389e0294da"
+        },
+        "picture": null,
+        "name": "E.C.D.I.D. CLUB LA ROTARIA",
+        "alias": "ECR",
+        "username": "ecr_user",
+        "email": "ecr@asofutsal.com",
+        "rol_id": {
+            "$oid": "65866d56b4a50f76386164dd"
+        },
+        "color": "#33A633",
+        "color2": "#e74c3c",
+        "rol_alias": "admin_delegaciones",
+        "events": [
+            "asofutsal"
+        ],
+        "active": true,
+        "password": "InSpFLBUvPk2H8wj57JGJ2laak5ORVZoL1IzYTEzSHpzQlZ0dlE9PQ==",
+        "user_id": {
+            "$oid": "000000000000000000000000"
+        },
+        "create_at": {
+            "$date": "2024-07-26T17:12:44.000Z"
+        },
+        "deuda": 13.5
+    },
+    {
+        "_id": {
+            "$oid": "66a3d90dc61b85389e0294de"
+        },
+        "picture": null,
+        "name": "FUERZA JUVENIL",
+        "alias": "FJ",
+        "username": "fj_user",
+        "email": "fj@asofutsal.com",
+        "rol_id": {
+            "$oid": "65866d56b4a50f76386164dd"
+        },
+        "color": "#996633",
+        "color2": "#3498db",
+        "rol_alias": "admin_delegaciones",
+        "events": [
+            "asofutsal"
+        ],
+        "active": true,
+        "password": "0BQyxFjCM6tK/NC0o1b0nTJDVG1wb0RZTW8yeU4vcGM2YVJIVmc9PQ==",
+        "user_id": {
+            "$oid": "000000000000000000000000"
+        },
+        "create_at": {
+            "$date": "2024-07-26T17:12:45.000Z"
+        },
+        "deuda": 0.5
+    }
+]

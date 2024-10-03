@@ -1,0 +1,35 @@
+{
+  "_id": {
+    "$oid": "66ba43f6881cb33fa80d9829"
+  },
+  "report": null,
+  "name": "Encuentro de Prueba",
+  "date": {
+    "$date": "2024-08-12T21:30:00.000Z"
+  },
+  "delegation": [
+    "ECR",
+    "FJ"
+  ],
+  "observation": "",
+  "sport": "FDS",
+  "category": "INFANTIL-A",
+  "competition": "A - 2024",
+  "gender": "male",
+  "group": "A",
+  "judges": [
+    {
+      "name": "",
+      "code": ""
+    }
+  ],
+  "finalized": false,
+  "create_at": {
+    "$date": "2024-08-12T17:18:46.000Z"
+  },
+  "active": true,
+  "edit_at": {
+    "$date": "2024-08-14T13:52:21.000Z"
+  },
+  "sede": "U.E. Nicolás Curiel Coutinho"
+}

@@ -1,0 +1,4373 @@
+[
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e62e"
+        },
+        "name": "EDWARD ADRIAN",
+        "lastname": "PRADO ABAD",
+        "dni": 32231771,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/13/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "AV. EL PARAISO",
+        "mother": "ADRIANA ARIAS",
+        "father": "CARLOS PRADO",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "08/10/2021",
+        "parroquia": "La Vega",
+        "ESCUELA_ANTERIOR": "DEPORTIVO NARANJAL",
+        "FECHA DE INGRESO2": "02/12/2018",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 707
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e631"
+        },
+        "name": "DEIKER RAUL",
+        "lastname": "DIAZ COVA",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "11/03/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "AV. GUZMAN BLANCO, BARRIO EL NARANJAL",
+        "mother": "MIRIAN COVA",
+        "father": "DENNY DIAZ",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "06/29/2021",
+        "parroquia": "La Vega",
+        "ESCUELA_ANTERIOR": "DEPORTIVO NARANJAL",
+        "FECHA DE INGRESO2": "11/22/2017",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 710,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e772"
+        },
+        "name": "SEBASTIAN IGNACIO",
+        "lastname": "MENDOZA ESPINOZA",
+        "dni": 33201275,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "02/09/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "mother": "MERUSKA CASTILLO",
+        "father": "RONNY MENDOZA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "08/28/2021",
+        "parroquia": "La Vega",
+        "ESCUELA_ANTERIOR": "DEPORTIVO NARANJAL",
+        "FECHA DE INGRESO2": "01/30/2018",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1032
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e850"
+        },
+        "name": "JEAN CARLOS",
+        "lastname": "PRADO ABAD",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/23/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "EL PARAISO",
+        "mother": "ADRIANA ABAD",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "08/28/2021",
+        "parroquia": "La Vega",
+        "ESCUELA_ANTERIOR": "DEPORTIVO NARANJAL",
+        "FECHA DE INGRESO2": "02/12/2018",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1255,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e8cf"
+        },
+        "name": "CRISTHOFER DAVID",
+        "lastname": "CUADRADO ESCALONA",
+        "dni": 37360076,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/10/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "LAS CASITAS, LOS BLOQUES, #4",
+        "father": "CARLOS CUADRADO",
+        "father_phone": "04142317124",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/13/2021",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "02/26/2018",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1382
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e93b"
+        },
+        "name": "DANIEL ALEJANDRO",
+        "lastname": "ALVAREZ ESPINOZA",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/15/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. PPAL. LAS TORRES",
+        "father": "CRISTIAN ALVAREZ",
+        "father_phone": "04265362810",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/20/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1490,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e939"
+        },
+        "name": "PEDRO MANUEL",
+        "lastname": "VELASQUEZ ALLEN",
+        "dni": 32583524,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/02/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "AV. PPAL. PARTE ALTA LAS TORRES",
+        "mother": "FANNY ALLEN",
+        "mother_phone": "04261868773",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "08/28/2021",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "03/20/2018",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1488
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e935"
+        },
+        "name": "MANUEL ALEJANDRO",
+        "lastname": "BENAVIDES BELEÑO",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/13/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. PPAL. LAS TORRES, CASA 15",
+        "mother": "MORAIMA BELEÑO",
+        "mother_phone": "04124880217",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/20/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1484,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e938"
+        },
+        "name": "YORLKLEYBER ABRAHAM",
+        "lastname": "MENDEZ SALAZAR",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/02/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. PPAL. LAS TORRES",
+        "mother": "DORIS SALAZAR",
+        "father": "CHARLY MENDEZ",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/20/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1487,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e933"
+        },
+        "name": "YOHIBERTH JOSE",
+        "lastname": "VARGAS PALACIOS",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "11/12/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. PPAL. LAS TORRES. 7 HERMANAS",
+        "mother": "YAJAIRA PALACIOS",
+        "mother_phone": "04263542839",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/20/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1482,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e93a"
+        },
+        "name": "MAIKOL JOSE",
+        "lastname": "VILLASMIL JUARES",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/27/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA TORRES",
+        "father": "VILLASMIL MAXIMO",
+        "father_phone": "04242916075",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/20/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1489,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e937"
+        },
+        "name": "LUIS ALEXANDER",
+        "lastname": "ALMERON GARCIA",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/31/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "FINAL LAS TORRES, LA VEGA",
+        "mother": "MARTHA GARCIA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/20/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1486,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e934"
+        },
+        "name": "EDUIN DAVID",
+        "lastname": "PINZON MANRIQUE",
+        "dni": 33029653,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/13/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "AV. PPAL. LAS TORRES, CASA 4",
+        "mother": "HERWIN PINZON",
+        "mother_phone": "04142545910",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/25/2020",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1483
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e96e"
+        },
+        "name": "MAIKOL DAVID",
+        "lastname": "RODRIGUES DUGARTE",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "05/21/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "LA VEGA",
+        "mother": "MADELEIN RODRIGUEZ",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "04/13/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1541,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e973"
+        },
+        "name": "NEOMAR ALEJANDRO",
+        "lastname": "RODRIGUEZ PIMENTEL",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/15/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LAS TORRES",
+        "mother": "DORELIS PIMENTEL",
+        "mother_phone": "04242822090",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "04/13/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1546,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e96d"
+        },
+        "name": "SCHNEIDER JOSE LUIS",
+        "lastname": "MOGOLLON MENDEZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/09/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "LA VEGA, LAS TORRES, EL FINAL",
+        "mother": "YANELVY MENDEZ",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "04/13/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1540,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e978"
+        },
+        "name": "YEFERSON JESUS",
+        "lastname": "ARAUJO BAEZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/26/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA",
+        "mother": "ELIZABETH YUSMARY",
+        "mother_phone": "04142794486",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "04/13/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1551,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e972"
+        },
+        "name": "WINDER JOSUE",
+        "lastname": "ARIAS ENRIQUE",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/04/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "AV. PPAL LAS TORRES",
+        "mother": "WUINDER ARIAS",
+        "mother_phone": "04141006683",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "04/13/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1545,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e976"
+        },
+        "name": "ALBERTO ELIAZAR",
+        "lastname": "MEJICANO YEPEZ",
+        "dni": 33246580,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/03/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "LA VEGA",
+        "father": "ALBERTP MEJICANO",
+        "father_phone": "04264104521",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/13/2021",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "04/13/2018",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1549
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e977"
+        },
+        "name": "LEANDRO GABRIEL",
+        "lastname": "ROJAS AULAR",
+        "dni": 32514532,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/30/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "LA VEGA",
+        "mother": "LILIANA AULAR",
+        "mother_phone": "04264104521",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/13/2021",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "04/13/2018",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1550
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e975"
+        },
+        "name": "FREIBELSON GABRIEL",
+        "lastname": "OCHOA LAMAS",
+        "dni": 32565089,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/10/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA",
+        "mother": "LISSETTE LAMAS",
+        "mother_phone": "04167084799",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/13/2021",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "04/13/2018",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1548
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e974"
+        },
+        "name": "YHORVID",
+        "lastname": "FERNANDEZ BRIONES",
+        "dni": 32951460,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/15/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "LAS TORRES",
+        "father": "JORGENFERNANDEZ",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/13/2021",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "04/13/2018",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1547
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e9cc"
+        },
+        "name": "JACKSON JESUS",
+        "lastname": "ROSARIO MONTILLA",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/22/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LOS TORRES, LAS 7 HERMANAS",
+        "father": "JONATHAN ROSARIO",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "04/24/2018",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1638,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ecf3"
+        },
+        "name": "SANTIAGO SAHID",
+        "lastname": "SALCEDO M.",
+        "dni": 32992427,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/28/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "MONTALBAN",
+        "mother": "SIKIU MARRERO",
+        "father": "BRAYAN SALCEDO",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "08/28/2021",
+        "parroquia": "La Vega",
+        "ESCUELA_ANTERIOR": "DEPORTIVO NARANJAL",
+        "FECHA DE INGRESO2": "02/07/2019",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2447
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ee93"
+        },
+        "name": "SANTIAGO",
+        "lastname": "BRICEÑO",
+        "dni": 32996526,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/12/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "EL PARAISO",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/17/2022",
+        "parroquia": "La Vega",
+        "ESCUELA_ANTERIOR": "DEPORTIVO NARANJAL",
+        "FECHA DE INGRESO2": "07/26/2019",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2867
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f074"
+        },
+        "name": "DYLAN EDUARDO",
+        "lastname": "ROSALES CARRASQUEL",
+        "dni": 33376450,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/20/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "SECT. GRAN MARISCAL DE AYACUCHO -  LA VEGA",
+        "mother": "ROSMERI CARRASQUEL",
+        "mother_phone": "04265156796",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/18/2020",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3350
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f077"
+        },
+        "name": "ESLIONER ELIAS",
+        "lastname": "GARCIA CASTRO",
+        "dni": 33050119,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "05/04/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "LARTE ALTA LA PRADERA - LA VEGA",
+        "mother": "ESLEINER CASTRO",
+        "mother_phone": "04126151586",
+        "father": "WILLIAMS BARCIA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/18/2020",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3353
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f078"
+        },
+        "name": "CESAR ALFREDO",
+        "lastname": "ROMERO PEREZ",
+        "dni": 33109573,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/03/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LAS CASITAS - LA VEGA",
+        "mother": "ISILAYNI PEREZ",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/18/2020",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3354
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f075"
+        },
+        "name": "FRANKLIN MANUEL",
+        "lastname": "BLANCO CASTRO",
+        "dni": 32877569,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/21/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LAS CASITAS - LA VEGA",
+        "mother": "ARELIS CASTRO",
+        "mother_phone": "04241803503",
+        "father": "FRANKLIN CASTRO",
+        "father_phone": "04241803503",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/18/2020",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3351
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f076"
+        },
+        "name": "EDGAR JHOANDER",
+        "lastname": "RAMIREZ RODRIGUEZ",
+        "dni": 33092887,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/15/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "LAS CASITA - LA VEGA",
+        "mother": "CARMEN RODRIGUEZ",
+        "mother_phone": "04262145834",
+        "father": "EDGAR RAMIREZ",
+        "father_phone": "04241867486",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/18/2020",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3352
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f0cc"
+        },
+        "name": "SEBASTIAN FRANCISCO",
+        "lastname": "BAUTE SANCHEZ",
+        "dni": 33102754,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/19/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA, BLOQ. 7",
+        "mother": "RULBELYS SANCHEZ",
+        "father": "DAVID BAUTE",
+        "father_phone": "04242879037",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/27/2020",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3438
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f0cd"
+        },
+        "name": "MIGUEL JAVIER",
+        "lastname": "GONZALEZ MORA",
+        "dni": 32374023,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "02/08/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "LAS TORRES, LA VEGA",
+        "mother": "ANDREA MORA",
+        "mother_phone": "04147543445",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/27/2020",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3439
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f0c8"
+        },
+        "name": "JOHANSEN MIGUEL",
+        "lastname": "SANTAELLA GUZMAN",
+        "dni": 33025294,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/06/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "LA VEGA",
+        "mother": "BRIGGITTE ZARATE",
+        "mother_phone": "04143114910",
+        "father": "MIGUEL SANTAELLA",
+        "father_phone": "04141193643",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/27/2020",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3434
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f0c6"
+        },
+        "name": "FERNANDO DANIEL",
+        "lastname": "BARROSO CARRILLO",
+        "dni": 19967998,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/27/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "CALLE FRANCISCO DE MIRANDA, BLOQ. 12",
+        "mother": "RAFAELA CARRILLO",
+        "mother_phone": "04243362285",
+        "father": "FERNANDO BARROSO",
+        "father_phone": "04243362285",
+        "observation": "CEDULA DE LA MADRE",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/27/2020",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3432
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f203"
+        },
+        "name": "MARIA DE LOS ANGELES",
+        "lastname": "ACOSTA BEJARANO",
+        "dni": 33569810,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/28/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "LA VEGA",
+        "mother": "DAYANA BEJARANO",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/23/2021",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3788
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f204"
+        },
+        "name": "YOSTIN CARLOS",
+        "lastname": "CASTRO PEREZ",
+        "dni": 33261978,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/17/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LAS CASITAS, LA VEGA",
+        "mother": "YUSBELIS PEREZ",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/23/2021",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3789
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f1fe"
+        },
+        "name": "WILBER SEBASTIAN",
+        "lastname": "DE LA CRUZ VERA",
+        "dni": 33621664,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/10/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LAS TORRES, LA VEGA",
+        "mother": "MARIA VERA",
+        "mother_phone": "04123688486",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/23/2021",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3783
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f21c"
+        },
+        "name": "MARIA DE LOS ANGELES",
+        "lastname": "BEJARANO BLANCO",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/28/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "LAS CASITAS",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/25/2021",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "02/25/2021",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3813,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f202"
+        },
+        "name": "MAGDIEL ALEJANDRO",
+        "lastname": "GUDIÑO MENDOZA",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "11/26/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "AV. PPAL. LAS TORRES",
+        "mother": "YUDIS DEL CARMEN",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/23/2021",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3787,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f1ff"
+        },
+        "name": "KEIBERSON JOSE",
+        "lastname": "GUARIN RODRIGUEZ",
+        "dni": 32638311,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/08/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "LAS TORRES, LA VEGA",
+        "mother": "DESIRE RODRIGUEZ",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/23/2021",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3784
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f201"
+        },
+        "name": "GABRIEL ALEXANDER",
+        "lastname": "ANDRADE BRITO",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "05/18/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LAS CASITAS",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/23/2021",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3786,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f21e"
+        },
+        "name": "WILKLEIBER JOSE",
+        "lastname": "BRICEÑO BLANCO",
+        "dni": 33398217,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/23/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LAS CASITAS",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/13/2021",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "02/25/2021",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3815
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f200"
+        },
+        "name": "CARLOS ALI",
+        "lastname": "MELENDEZ ANGULO",
+        "dni": 25213409,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/30/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "LA ESTRELLA, LA VEGA",
+        "mother": "ERIKA ANGULO",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/23/2021",
+        "parroquia": "La Vega",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3785
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f229"
+        },
+        "name": "IBRAHYM RAFAEL",
+        "lastname": "ROJAS COLINA",
+        "dni": 33433307,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/10/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA",
+        "mother": "IRAIS PLANCHART",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "02/25/2021",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "03/02/2021",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3826
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f29f"
+        },
+        "name": "JEAN PERRE",
+        "lastname": "GUERRERO MEDAGLIA",
+        "dni": 33435358,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "05/08/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "08/10/2021",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "06/29/2021",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3945
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f384"
+        },
+        "name": "RAIKER EDUARDO",
+        "lastname": "RANGEL OLIVARES",
+        "dni": 32976346,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/29/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "01/05/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "01/05/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4174
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f385"
+        },
+        "name": "ANA MARIA",
+        "lastname": "SANZ CASSIANI",
+        "dni": 33755021,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/02/2009",
+        "birth_adress": "CARACAS",
+        "gender": "female",
+        "age": 14,
+        "adress": "LA VEGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "01/05/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "01/05/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4175
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f3e0"
+        },
+        "name": "ANGEL DAVID",
+        "lastname": "PADILLA ZUÑIGA",
+        "dni": 83750381,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "11/16/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "LA VEGA",
+        "mother": "DIANA ZUÑIGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/01/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "03/01/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4267
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f421"
+        },
+        "name": "SANTIAGOANDRES",
+        "lastname": "VIRGUEZ OLIVAR",
+        "dni": 32697705,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "02/20/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/17/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "03/17/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4334
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f425"
+        },
+        "name": "JOHAN ISAY",
+        "lastname": "SOSA RIVAS",
+        "dni": 32950029,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/10/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "LA VEGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/17/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "03/17/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4338
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f423"
+        },
+        "name": "SANTIAGO ALFONSO",
+        "lastname": "FUENTES GONCALVES",
+        "dni": 32985472,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "05/20/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/17/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "03/17/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4336
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f422"
+        },
+        "name": "SEBASTIAN",
+        "lastname": "CENTENO PARRA",
+        "dni": 34006192,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/23/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "LA VEGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/17/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "03/17/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4335
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f424"
+        },
+        "name": "SEBASTIAN DAVID",
+        "lastname": "ALZATE GOMEZ",
+        "dni": 33260241,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/30/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/17/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "03/17/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4337
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f47a"
+        },
+        "name": "JEREMI RAFAEL",
+        "lastname": "SALAS PEREZ",
+        "dni": 33069466,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/09/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/30/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "04/15/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4424
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f472"
+        },
+        "name": "NOHELIEXIS ROSANYELI",
+        "lastname": "LOPEZ MANEIRO",
+        "dni": 32992414,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "02/17/2008",
+        "birth_adress": "CARACAS",
+        "gender": "female",
+        "age": 16,
+        "adress": "LA VEGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/30/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "03/30/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4416
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f46a"
+        },
+        "name": "WINDER",
+        "lastname": "GARCUA SANCHEZ",
+        "dni": 32764428,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/07/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "03/26/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "03/26/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4408
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f563"
+        },
+        "name": "SEBASTIAN ALEJANDRO",
+        "lastname": "GALAVIS REYES",
+        "dni": 33295023,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/17/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "10/06/2022",
+        "parroquia": "La Vega",
+        "FECHA DE INGRESO2": "10/06/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4658
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f6c2"
+        },
+        "name": "JUAN ANDRES",
+        "lastname": "GUERRA BUENO",
+        "dni": 33408145,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/20/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "06/28/2023",
+        "parroquia": "La Vega",
+        "CEDULA REPRESENTANTE": 0,
+        "FECHA DE INGRESO2": "06/28/2023",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 5011
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f6c3"
+        },
+        "name": "JUAN DIEGO",
+        "lastname": "PADILLA SANTIAGO",
+        "dni": 33639511,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "02/13/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "mother": "GUSTAVO PADILLA",
+        "school": "FUERZA JUVENIL",
+        "delegation": "FJ",
+        "ingress_date": "06/28/2023",
+        "parroquia": "La Vega",
+        "CEDULA REPRESENTANTE": 0,
+        "FECHA DE INGRESO2": "06/28/2023",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 5012
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e389"
+        },
+        "name": "DEYNEIKER JHOSNEIBER",
+        "lastname": "GONCALVES ANGULO",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/19/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "KM7 EL JUNQUITO VEREDA 13 CASA 9",
+        "phone": "02124226402",
+        "mother": "DEYLIS ANGULO",
+        "mother_phone": "04168784354",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/03/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 30,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e38c"
+        },
+        "name": "CARLOS ABRAHAN",
+        "lastname": "GONZALEZ SIVIRA",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/03/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "phone": "02124848383",
+        "mother": "CECILIA SIVIRA",
+        "mother_phone": "04144818383",
+        "father_phone": "04142836740",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/03/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 33,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e39d"
+        },
+        "name": "ZACKIEL ALEJANDRO",
+        "lastname": "VILLEGAS PEREZ",
+        "dni": 32670904,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/01/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA, CALLE LIBERTAD SECT. LOS CUJICITOS",
+        "phone": "02124422982",
+        "mother": "YELITZA PEREZ",
+        "mother_phone": "04241612283",
+        "father": "MICHELL VILLEGAS",
+        "father_phone": "04129502530",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/27/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 50
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e386"
+        },
+        "name": "GABRIEL ARCANGEL",
+        "lastname": "DUQUE PEÑA",
+        "dni": 33006688,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/19/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "RESIDENCIAS LAS FLORES, EDIF. EL CHANCE EL PARAISO",
+        "phone": "02125418059",
+        "mother": "CARMEN PEÑA",
+        "mother_phone": "04269071364",
+        "father_phone": "04242761609",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "08/23/2022",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "10/03/2017",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 27
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e387"
+        },
+        "name": "DIEGO SEBASTIAN",
+        "lastname": "AVILA PITA",
+        "dni": 32990777,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "2009-06-29",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. SAN MARTIN EDIF. MACARIO",
+        "phone": "02124820453",
+        "mother": "MARIA PITA",
+        "mother_phone": "04241844815",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "2015-09-10",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 28,
+        "dniFile": "1ec50455b3bf6e3dde6195f1ab048a1e.jpg",
+        "edit_at": {
+            "$date": "2024-08-15T18:19:06.000Z"
+        },
+        "email": "sabaspita@gmail.com",
+        "father": "",
+        "father_phone": "",
+        "hasDNI": true,
+        "phone2": "04241738864",
+        "picture": "ad5e88290d391de799cf81f29952e073.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e38d"
+        },
+        "name": "SAMUEL ANDRES",
+        "lastname": "MENDEZ PUERTA",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/05/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "VALLES DEL TUY LA RAIZA",
+        "mother": "ANGELIZ PUERTA",
+        "mother_phone": "04268059419",
+        "father_phone": "04263044110",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/03/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 34,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e39a"
+        },
+        "name": "ENGGERBEL ENRRIQUE",
+        "lastname": "VASQUEZ SOJO",
+        "dni": 32902889,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/27/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. SAN MARTIN, CAPUCHINOS, RESD. 24 DE JULIO",
+        "father": "RAFAEL VASQUEZ",
+        "father_phone": "04212062393",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/27/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 47
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e396"
+        },
+        "name": "ALBERT  JESUS",
+        "lastname": "APARICIO VANVEEN",
+        "dni": 32724504,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": false,
+        "birth_date": "2008-12-01",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "EL VALLE, SAN ANTONIO",
+        "phone": "02126622465",
+        "mother": "KAREN VANVEEN",
+        "mother_phone": "04242667771",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "2016-08-18",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 43,
+        "dniFile": "db5ec3330aee38333234af5561e3a93c.jpeg",
+        "edit_at": {
+            "$date": "2024-08-18T23:55:32.000Z"
+        },
+        "email": "Aparicioalbert54@gmail.com",
+        "father": "",
+        "father_phone": "",
+        "hasDNI": true,
+        "phone2": "04125964289",
+        "picture": "ea376994e1c196d3bd76629350fe280f.jpeg"
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e39e"
+        },
+        "name": "SAVIR ERNESTO",
+        "lastname": "TORRES MARQUEZ",
+        "dni": 33069869,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/17/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "AV. LECUNA, EDIF. 4 DE FEBRERO",
+        "phone": "02128985408",
+        "mother": "LEONOR MARQUEZ",
+        "mother_phone": "04262349749",
+        "father": "ERNESTO  TORRES",
+        "father_phone": "04142122501",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/16/2023",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "10/03/2017",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 51
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e3a0"
+        },
+        "name": "JUAN ANDRES",
+        "lastname": "USECHE MORENO",
+        "dni": 32154035,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/02/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "ESQ. SAN PEDRO, RESD. RIO PARQUE, TORRE A",
+        "phone": "02124513860",
+        "mother": "DALLY MORENO",
+        "mother_phone": "04241033325",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "05/28/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 53
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e384"
+        },
+        "name": "JUAN DIEGO",
+        "lastname": "JIMENEZ BRITO",
+        "dni": 33306718,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/06/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. VICTORIA EDIF. MARACAIBO",
+        "phone": "02126328418",
+        "mother": "SIBIA BRITO",
+        "mother_phone": "04160114331",
+        "father_phone": "04262113324",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/03/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 25
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e391"
+        },
+        "name": "RICARDO ENMANUEL",
+        "lastname": "BRITO CANELONES",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/30/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "BARRIO NUEVO, SECTOR LOS CASCABELES",
+        "phone": "02123178309",
+        "mother": "MARIA CANELONES",
+        "mother_phone": "04167142676",
+        "father_phone": "04242902854",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/03/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 38,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e4e7"
+        },
+        "name": "SAMUEL EDUARDO",
+        "lastname": "GUTIERREZ REYES",
+        "dni": 34120172,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/17/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. PAEZ, CALLE LAS CASETAS, RESD. DORAL, PISO 8, 8-A",
+        "phone": "02124517305",
+        "mother": "NILDA ANDRADE",
+        "mother_phone": "04141038992",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/23/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 380
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e4e9"
+        },
+        "name": "DIOSNI EMMANUEL",
+        "lastname": "REQUENA BRICEÑO",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/20/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "COTA 905, SECT. EL NARANJAL",
+        "phone": "02124901304",
+        "mother": "BETTY BRICEÑO",
+        "mother_phone": "04262378207",
+        "father": "DENIS REQUENA",
+        "father_phone": "04264090410",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/23/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 382,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e4e5"
+        },
+        "name": "AZELT NHALIETD",
+        "lastname": "VANVEEN ZERPA",
+        "dni": 33261598,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/27/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "phone": "02126622465",
+        "mother": "JAREN AGUIERA",
+        "mother_phone": "04241838932",
+        "father": "ALEX VANVEEN",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "03/04/2021",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "08/22/2019",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 378
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e4eb"
+        },
+        "name": "JOHANDER DANIEL",
+        "lastname": "RIVERO RODRIGUEZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "11/08/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "23 DE ENERO, BLOQ. 12, APTO. B-6",
+        "phone": "02128583188",
+        "email": "JHOLIMARRODRIGUEZ@GMAIL.COM",
+        "mother": "JHOLIMAR RODRIGUEZ",
+        "mother_phone": "04129600733",
+        "father": "JORGE RIVERO",
+        "father_phone": "04120155117",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/23/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 384,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e4ea"
+        },
+        "name": "CRISTOPHER ABIUD",
+        "lastname": "LADERA DELGADO",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/16/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. PPAL. 5 DE JULIO, PLAN DE LA SILSA, CATIA",
+        "phone": "02124731471",
+        "email": "PRONETEVENTOSVEN@GMAIL.COM",
+        "mother": "LESLIE DELGADO",
+        "mother_phone": "04169046143",
+        "father": "LUIS LADERA",
+        "father_phone": "04265444541",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/23/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 383,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e4e8"
+        },
+        "name": "NAYELIS LOREAN",
+        "lastname": "GUERRERO SALAZAR",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/18/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "UD7. RUIZ PINEDA, BLOQUE 15",
+        "phone": "02124333144",
+        "mother": "JORBEN GUERRERO",
+        "mother_phone": "04242031068",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/23/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 381,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e4f0"
+        },
+        "name": "RICARDO RAFAEL",
+        "lastname": "PEREZ ALAYON",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "05/20/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "COCHE",
+        "phone": "02126813939",
+        "mother": "YANNOCELY ALAYON",
+        "father": "RICARDO PEREZ",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/23/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 389,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e4ee"
+        },
+        "name": "YOSMER ALEXANDER",
+        "lastname": "JIMENEZ URBINA",
+        "dni": 32643479,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/22/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "AV. FUERZAS ARMADAS",
+        "phone": "02125410539",
+        "mother": "ROMER JIMENEZ",
+        "mother_phone": "04160966360",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/27/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 387
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e51b"
+        },
+        "name": "CHRISTIAN RICARDO",
+        "lastname": "PITA CEDRE",
+        "dni": 32436091,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/25/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "RESD. LAS VILLA DE AVILA",
+        "father": "JOAO PITA",
+        "father_phone": "04140103325",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "12/05/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 432
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e4ec"
+        },
+        "name": "MISAEL DAVID",
+        "lastname": "SEQUERA LAMUS",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/31/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. PAEZ EL PARAISO",
+        "phone": "02124174047",
+        "mother": "BLANCA LAMUS",
+        "mother_phone": "04143285069",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/23/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 385,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e56e"
+        },
+        "name": "SALVADOR ALONSO",
+        "lastname": "VIERA PEÑA",
+        "dni": 33083581,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/02/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. PPAL. JOSE ANTONIO PAEZ, CALLE ARISMENDI",
+        "phone": "02124821714",
+        "mother": "LILIBES PEÑA",
+        "mother_phone": "04241942085",
+        "father_phone": "04169320379",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/07/2023",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "02/27/2020",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 515
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e56f"
+        },
+        "name": "ISAAC ERIC",
+        "lastname": "CALDERON ORTIZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/13/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "SECTOR 4, LAS CASITAS, LA VEGA",
+        "phone": "02124763410",
+        "email": "LORENACALDERON29@GMAIL.COM",
+        "mother": "CARMEN CALDERON",
+        "mother_phone": "04241239562",
+        "father": "OSWAL CUELLAR",
+        "father_phone": "04261165067",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/31/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 516,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e5d8"
+        },
+        "name": "RICARDO DAVID",
+        "lastname": "VARELA SUAREZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/14/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "AV. SAN MARTIN, C/CIRCUNVALACION, EDIF. AURIMAR I",
+        "phone": "02123244558",
+        "phone2": "04123872384",
+        "email": "FOREVERY_Y_S@GMAIL.COM",
+        "mother": "YAMIRAY SUARES",
+        "mother_phone": "04123872384",
+        "father": "ODLANIER VARELA",
+        "father_phone": "04125590688",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "05/30/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 621,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e5d9"
+        },
+        "name": "SANTIAGO GABRIEL",
+        "lastname": "MEJIAS BRITO",
+        "dni": 32609181,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/01/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "REDOMA DE LA INDIA, LOS TESTIGOS, 10-E",
+        "phone": "02124718626",
+        "phone2": "04241875491",
+        "email": "HERBERT_MEJIAS@HOTMAIL.COM",
+        "mother": "PERSIDA BRITO",
+        "mother_phone": "04141563330",
+        "father": "HERBERT MEJIAS",
+        "father_phone": "04241875491",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "11/16/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 622
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e5df"
+        },
+        "name": "NELSON DAVID",
+        "lastname": "TOVAR MORALES",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "02/05/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "CARMEN A PUENTE ARAUCA, RED. ELIZABETH, TORRE B.",
+        "phone": "02124817221",
+        "mother": "KATHERINE MORALES",
+        "mother_phone": "04241826506",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "11/16/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 628,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e5d6"
+        },
+        "name": "SIMON ERNESTO",
+        "lastname": "DOMINGUEZ ESPINOZA",
+        "dni": 32802117,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/16/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. EL EJERCITO, RESD. DIANA, PISO 4, APTO. 41",
+        "phone": "02124828673",
+        "mother": "HILDA ESPINOZA",
+        "mother_phone": "0412119813",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/27/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 619
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e649"
+        },
+        "name": "FRAN JAVIER",
+        "lastname": "PEREZ UZCATEGUI",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/10/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "QTA. CRESPO, CALLE QTA., EDIF. JAUA, PISO 1",
+        "mother": "UZCATEGUI YESSICA",
+        "mother_phone": "04244817281",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/30/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 734,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e64d"
+        },
+        "name": "JONATHAN ALEJANDRO",
+        "lastname": "DURAN ORTEGA",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "11/07/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. JOSE ANGEL LAMAS, EUCALIPTOS, CALLE VENEZUELA",
+        "phone": "02124623258",
+        "phone2": "04141004710",
+        "mother": "ANGELICA ORTEGA",
+        "mother_phone": "04141004710",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/30/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 738,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e63e"
+        },
+        "name": "ABRAHAM DE JESUS",
+        "lastname": "ALARCON ANGULO",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/16/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "AV. SAN MARTIN, CALLE",
+        "phone": "02124828516",
+        "mother": "MAGALY ANGULO",
+        "mother_phone": "04168331370",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/30/2017",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 723,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e6aa"
+        },
+        "name": "FRANCO JOSE",
+        "lastname": "SALAZAR FAJARDO",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/09/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "COTA 905, CARACAS",
+        "father": "FRANCISCO SALAZAR",
+        "father_phone": "04128005202",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "01/22/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 831,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879eb6c99ebf3eb2e648"
+        },
+        "name": "CESAR ARTURO",
+        "lastname": "VARGAS VALERA",
+        "dni": 32852473,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/17/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. SUR 4, ESQ. REDUCTO A GLORIETA. RESD. DON GERMAN, PISO 16, APTO. 95",
+        "phone": "02124815894",
+        "phone2": "04141299005",
+        "email": "RAFMELYVALERA@GMAIL.COM",
+        "mother": "RAFMELY VALERA",
+        "mother_phone": "04141299005",
+        "father": "ANTONIO MACHADO",
+        "father_phone": "04269880381",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "03/20/2021",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "10/30/2017",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 733
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e7c4"
+        },
+        "name": "AMAURY DE JESUS",
+        "lastname": "CASTRO DIAZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/28/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "CARAPITA, TERRAZA K, DETRÁS DEL MODULO",
+        "phone": "02123175122",
+        "email": "AMAURYJC2011@HOTMAIL.COM",
+        "mother": "MARYERLIN DIAZ",
+        "father": "AMAURY CASTRO",
+        "father_phone": "04127066297",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/12/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1114,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e7c6"
+        },
+        "name": "DYLAN LEONARDO",
+        "lastname": "LOPEZ OROPEZA",
+        "dni": 13986222,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/08/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "AV. LEONARDO RUIZ PINEDA, ATRÁS DEL PASAJE 6 Y 7",
+        "phone": "02126421336",
+        "mother": "YETZY OROPEZA",
+        "mother_phone": "04242669761",
+        "father": "ARGENIS LOPEZ",
+        "father_phone": "04244143265",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/12/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1116
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e7d0"
+        },
+        "name": "MATIAS GABRIEL",
+        "lastname": "PIÑANGO BETANCOURT",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/10/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "RESD. 21 DE JULIO, EDIF. 1, PISO 8, APTO. 805",
+        "mother": "ZULEMA BETANCOURT",
+        "mother_phone": "04126301574",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/12/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1126,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e7ee"
+        },
+        "name": "HENDRICK JESUS",
+        "lastname": "CHACON PERDOMO",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "11/01/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "RUIZ PINEDA, CALLE PRINCIPAL, CASA 6",
+        "phone": "02124330844",
+        "email": "CHACON_PERDOMO1101@HOTMAIL.COM",
+        "mother": "NEIDA PERDOMO",
+        "mother_phone": "04241880902",
+        "father": "EDWIN HERRETES",
+        "father_phone": "04129505044",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "05/28/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1156,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e7f3"
+        },
+        "name": "FABIAN ANDRES",
+        "lastname": "OJEDA GONZALEZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/23/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "RESD. NAIGUATA, TORRE C, PISO 12. AV SUCRE",
+        "phone": "02128641974",
+        "mother": "YODRY GONZALEZ",
+        "mother_phone": "04241194058",
+        "father": "RAUL OJEDA",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "05/28/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1161,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e9fe"
+        },
+        "name": "JESUS DANIEL",
+        "lastname": "BARRIO LOPEZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/29/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "EL VALLE CALLE CAJIGAL, EDIF. 4, PB",
+        "phone": "02126711158",
+        "mother": "JANIVI LOPEZ",
+        "mother_phone": "04141639567",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "05/28/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1688,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e9f2"
+        },
+        "name": "MIGUEL ANGEL",
+        "lastname": "MONTILLA ORTIZ",
+        "dni": 32502615,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/12/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "COTA 905, BRISAS DEL PARAISO",
+        "mother": "VICTORIA ALVAREZ",
+        "mother_phone": "04241892699",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "05/28/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1676
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2e9fb"
+        },
+        "name": "STEVEN ALEXANDER",
+        "lastname": "SALAS PEÑA",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/08/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "AV. SAN MARTIN, EDIF. MACANAO, PISO 6",
+        "phone": "02124812801",
+        "mother": "ELVIRA PEÑA",
+        "mother_phone": "04262297560",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "05/28/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1685,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eaa2"
+        },
+        "name": "FABIAN ALEJANDRO",
+        "lastname": "REGALADO LARA",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/22/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "FINAL CALLE ARISMENDI, BRISAS DEL PARAISO, CASA 12-10",
+        "mother": "LISSET LARA",
+        "mother_phone": "04241952094",
+        "father": "EMMIS REGALADO",
+        "father_phone": "04168301630",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/24/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1853,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eb09"
+        },
+        "name": "JESUS DANIEL",
+        "lastname": "MARRERO PEREZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/19/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "AV. SUR 12, CALLE LAS DELICIAS A PTE. PARAISO",
+        "phone": "02121810763",
+        "mother": "DAISELIS PEREZ",
+        "mother_phone": "02121810763",
+        "father": "DANIEL MARRERO",
+        "father_phone": "04265206688",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/24/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1956,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ea8f"
+        },
+        "name": "ANDRES EDUARDO",
+        "lastname": "RODRIGUEZ PEREZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/03/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. PAEZ EL PARAISO",
+        "phone": "02124842936",
+        "mother": "DORIS PEREZ",
+        "mother_phone": "04165293044",
+        "father": "NELSON RODRIGUEZ",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "04/30/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1834,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eaa1"
+        },
+        "name": "DIEGO ALEJANDRO",
+        "lastname": "ZAMBRNO RIVERO",
+        "dni": 32514938,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/12/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "SECT. EL SAMAN. SIERRA MAESTRA",
+        "phone": "02128636764",
+        "mother": "VERONICA RIVERO",
+        "mother_phone": "04167247996",
+        "father": "CESAR ZAMBRANO",
+        "father_phone": "04129923802",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/24/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1852
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eb02"
+        },
+        "name": "ENYERBER JOSE",
+        "lastname": "TUAREZ HOLGUIN",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/11/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "LA LOMA DEL VIENTO, EL GUARATARO",
+        "phone": "02124523489",
+        "mother": "MARIA HOLGIN",
+        "mother_phone": "04123858218",
+        "father": "EDWARD TUAREZ",
+        "father_phone": "04168307884",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/24/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1949,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eb03"
+        },
+        "name": "SEBASTIAN DANIEL",
+        "lastname": "GUERRERO CORTEZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/05/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA PASTORA, SAN RUPERTO A SOLEDAD",
+        "phone": "02128636693",
+        "mother": "MARBELIZ CORTEZ",
+        "mother_phone": "04269462929",
+        "father": "ALEXANDER GUERRERO",
+        "father_phone": "04149266890",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/24/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1950,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eb04"
+        },
+        "name": "KEINER JHOSNEL",
+        "lastname": "DA SILVA ROJAS",
+        "dni": 32740596,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/08/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "ESQ. PEPE ALEMAN A GARITA, CASA 25",
+        "phone": "02124188938",
+        "mother": "ROXSI ROJAS",
+        "mother_phone": "04142611055",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/24/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1951
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eb06"
+        },
+        "name": "JOSE GREGORIO",
+        "lastname": "OLIVERO MARCANO",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/23/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "COTA 905, CASA 49",
+        "mother": "JENIFER LUNA",
+        "mother_phone": "04143049276",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/24/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1953,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eb05"
+        },
+        "name": "ERINSON RAFAEL",
+        "lastname": "PAREDES SOSA",
+        "dni": 32473195,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/07/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "COTA 905",
+        "phone": "02126424696",
+        "mother": "SOSA BREIDY",
+        "mother_phone": "04264208761",
+        "father": "JOSE PAREDES",
+        "father_phone": "04242520259",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/24/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1952
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eafc"
+        },
+        "name": "AXAEL JOSE",
+        "lastname": "HIDALGO",
+        "dni": 32412289,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/05/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "EDIF. LOS GRANADILLOS, CALLEJON MACHADO",
+        "phone": "02124810166",
+        "mother": "ALEXANDRA BEGARANO",
+        "mother_phone": "04142281933",
+        "father": "RAFEL HIDALGO",
+        "father_phone": "04242070071",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "11/12/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1943
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eb08"
+        },
+        "name": "JHONKLEIVER DANIEL",
+        "lastname": "MONTILLA GUETE",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/06/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA COTA 905, SECT. LA ESPERANZA",
+        "mother": "KATERIN GUETE",
+        "mother_phone": "04143187406",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/24/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 1955,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eb6b"
+        },
+        "name": "GERFRAN NAZARETH",
+        "lastname": "MORENO CISNEROS",
+        "dni": 32400266,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "05/17/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "ESQ. CIPRESES, RESD. CIPRESES, PISO 1",
+        "phone": "02127826174",
+        "mother": "KAREEN DE CISNEROS",
+        "mother_phone": "04144735524",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/15/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2054
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eb6c"
+        },
+        "name": "KEIBER ALFONSO",
+        "lastname": "DIAZ DIAZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/08/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "PTE. HIERRO, ESQ. DE PELAES",
+        "phone": "02125411071",
+        "mother": "MARITZA CHACON",
+        "mother_phone": "04149129296",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/15/2018",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2055,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ecc2"
+        },
+        "name": "JHOAN SEBASTIAN",
+        "lastname": "FERNANDEZ",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/24/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "COTA 905, 21 DE JULIO",
+        "mother": "JEANGELIS ECHENAGUEIA",
+        "mother_phone": "04261394149",
+        "father": "EMILIO FERNANDEZ",
+        "father_phone": "0412556",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "01/31/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2398,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ecd8"
+        },
+        "name": "NESTOR ALEXANDER",
+        "lastname": "PARAGUACUTO MAESTRE",
+        "dni": 33241167,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/15/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "AV. SAN MARTIN, CONJUNTO RESD. SAN MARTIN",
+        "phone": "02124510503",
+        "mother": "BARBARE MAESTRE",
+        "mother_phone": "04142352754",
+        "father": "NESTOR PARAGUACUTO",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "03/04/2021",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "01/31/2019",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2420
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ecdd"
+        },
+        "name": "SANTIAGOJOSUE",
+        "lastname": "CARRERO QUIMIS",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/09/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "TELARES DE LOS PALOS GRANDES",
+        "mother": "YOHANA QUIMIS",
+        "mother_phone": "04241149901",
+        "father": "JOSE GUERRERO",
+        "father_phone": "04241704303",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "01/31/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2425,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ecdb"
+        },
+        "name": "DIEGO ALEJANDRO",
+        "lastname": "NOVA TOVAR",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/20/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "SANTA ROSALIA, RESD PALMITA",
+        "mother": "MARIA TOVAR",
+        "mother_phone": "04120107666",
+        "father": "LUIS NOVA",
+        "father_phone": "04241419033",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/25/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2423,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ecdc"
+        },
+        "name": "ALAN MATTIUS",
+        "lastname": "LEON PARDO",
+        "dni": 32996551,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/20/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "CALLE REAL, SECT. EL MANGUITO",
+        "phone": "02123141501",
+        "mother": "PIERINA PARDO",
+        "mother_phone": "04149169013",
+        "father": "JEOBANNY LEON",
+        "father_phone": "04241482130",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "07/02/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2424
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2edaa"
+        },
+        "name": "JHONGENIS SEBASTIAN",
+        "lastname": "MENDOZA CADENAS",
+        "dni": 13693763,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/06/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "EL PARAISO",
+        "phone": "02124850257",
+        "mother": "LICETH CADENAS",
+        "mother_phone": "04241712294",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/25/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2631
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2edaf"
+        },
+        "name": "ISAAC EFRAIN",
+        "lastname": "VILLALTA SALAZAR",
+        "dni": 32763973,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/08/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "BRISAS DEL PARAISO",
+        "mother": "YADEISI SALAZAR",
+        "mother_phone": "04261268355",
+        "father": "EFRAIN VILLALTA",
+        "father_phone": "04122077657",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "04/03/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2636
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ede9"
+        },
+        "name": "MIGUEL ALEJANDRO",
+        "lastname": "CHAVEZ PEREZ",
+        "dni": 32752662,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "02/21/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "KM 6 DEL JUNQUITO",
+        "phone": "2125031169",
+        "email": "JHILIPEREZ@GMAIL.COM",
+        "mother": "JHILEIBY PEREZ",
+        "mother_phone": "4162133245",
+        "father": "MIGUEL CHAVEZ",
+        "father_phone": "4122438504",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "06/08/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2697
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2edea"
+        },
+        "name": "SANTIAGO ANDRES",
+        "lastname": "DIAZ ROJAS",
+        "dni": 32802879,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/05/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA PASTORA",
+        "phone": "2128618300",
+        "mother": "ALBANY ROJAS",
+        "mother_phone": "4142783454",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "06/08/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2698
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ede8"
+        },
+        "name": "SAMUEL ALEJANDRO",
+        "lastname": "MATA RODRIGUEZ",
+        "dni": 13846088,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "11/18/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "AV SAN MARTIN TORRE CARABOBO",
+        "email": "ILENISRODRIGUEZ471@GMAIL.COM",
+        "mother": "IDENIS RODRIGUEZ",
+        "mother_phone": "4147870458",
+        "father": "IVAN MATA",
+        "father_phone": "4241982299",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "06/08/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2696
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ee37"
+        },
+        "name": "DANIEL ALEJANDRO",
+        "lastname": "VILLEGAS RODRIGUEZ",
+        "dni": 32473807,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "02/13/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "ESQ. COLA DE PATO A CALLE CIEGA AV. SAN MARTIN",
+        "mother": "MARIANA VILLEGAS",
+        "mother_phone": "04263060419",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "07/02/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2775
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ee35"
+        },
+        "name": "CRISTIAN ALEXANDER",
+        "lastname": "RIVERA ZAMBRANO",
+        "dni": 181107691,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/04/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "BRISAS DE PROPATRIA SUBIENDO A BOQUERON",
+        "mother": "CRISTI ZAMBRANO",
+        "mother_phone": "04122119394",
+        "father": "ALEXANDER RIVERA",
+        "observation": "CEDULA DE LA MADRE",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "07/02/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2773
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ee39"
+        },
+        "name": "JESUS MANUEL",
+        "lastname": "ALVARADO PIAMO",
+        "dni": 33037952,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/13/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA, CALLE 7 DE SEPTIEMBRE",
+        "phone": "02126727368",
+        "mother": "ANGGIE PIAMO",
+        "mother_phone": "04120107248",
+        "father": "MANUEL ALVARADO",
+        "father_phone": "04264135331",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "07/02/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2777
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ee4b"
+        },
+        "name": "ANGEL EDUARDO",
+        "lastname": "MORALES FRIAS",
+        "dni": 18404691,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/25/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "LOS FAILES DE CATIA",
+        "mother": "ANDREINA FRIAS",
+        "mother_phone": "04126286452",
+        "father": "FELIX DE JESUS",
+        "father_phone": "04142198447",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "07/02/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2795
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ee3c"
+        },
+        "name": "CLEIBER ENDERSON",
+        "lastname": "ADONIS LAFALAISE",
+        "dni": 20290747,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "08/15/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. SAN MARTIN",
+        "mother": "MIRLENE LAFALAISE",
+        "father": "JEAN ADONIS",
+        "father_phone": "04125513322",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "07/02/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2780
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ee4c"
+        },
+        "name": "ELIOMAY GABRIEL",
+        "lastname": "PIRELA GONZALEZ",
+        "dni": 32799538,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "02/23/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "ARTIGAS",
+        "mother": "ELIA GONZALEZ",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "07/02/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2796
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ee49"
+        },
+        "name": "WILIEIKER IRAWO",
+        "lastname": "BETANCOURT OLIVO",
+        "dni": 33025755,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/30/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA SILSA",
+        "mother": "LEICKELIS OLIVO",
+        "mother_phone": "04129350474",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "03/04/2021",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "07/02/2019",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2793
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eea9"
+        },
+        "name": "ARON DAVID",
+        "lastname": "PEÑALVER CONTRERAS",
+        "dni": 32805608,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "02/13/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "SAN AGUSTIN",
+        "phone": "02125737226",
+        "mother": "ROSA AROCHA",
+        "mother_phone": "04269115664",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "07/29/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2889
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eee8"
+        },
+        "name": "JOSE AVELINO",
+        "lastname": "DE FREITAS DA SILVA",
+        "dni": 32870401,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "07/14/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "EL PARAISO",
+        "phone": "02124522612",
+        "mother": "MARISELA SILVA",
+        "mother_phone": "04128023002",
+        "father": "AVELINO DE FREITAS",
+        "father_phone": "04122743657",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "08/05/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2952
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eee5"
+        },
+        "name": "ALFREDO DAVID",
+        "lastname": "PLAZ VALERA",
+        "dni": 19933070,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/10/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. PPAL. DEL CEMENTERIO",
+        "phone": "02126319413",
+        "mother": "NORELYS VALERA",
+        "mother_phone": "04241532380",
+        "observation": "CEDULA DE LA MADRE",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "08/05/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2949
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2ef15"
+        },
+        "name": "DAVID ALEJANDRO",
+        "lastname": "ITRIAGO ZAMBRANO",
+        "dni": 32412339,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/14/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "EL PARAISO",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "08/15/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2997
+    },
+    {
+        "_id": {
+            "$oid": "66b0879fb6c99ebf3eb2eeaa"
+        },
+        "name": "VLAIMER ALEJANDRO",
+        "lastname": "MONTAÑO BRICEÑO",
+        "dni": 11411887,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "11/25/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "SAN AGUSTIN",
+        "phone": "02125776627",
+        "mother": "YOLIS BRICEÑO",
+        "mother_phone": "04123752955",
+        "father": "VLADIMIR MONTAÑO",
+        "father_phone": "04263107397",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "08/05/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 2890
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2efeb"
+        },
+        "name": "ABRAHAM WILMER",
+        "lastname": "CABRERA LOPEZ",
+        "dni": 32947441,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/09/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "EL PARAISO",
+        "mother": "JESSICA LOPEZ",
+        "mother_phone": "04141639567",
+        "father": "WILMER CABRERA",
+        "father_phone": "04241394577",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/30/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3212
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2effa"
+        },
+        "name": "ANGEL LEONARDO",
+        "lastname": "SERRANO BRIZUELA",
+        "dni": 32535190,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/16/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "SAN ANDRES CALLE LOS CEDROS, CASA 27",
+        "mother": "ELIUSNET BRIZUELA",
+        "mother_phone": "04125752760",
+        "father": "SERRANO ANGEL",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/16/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3227
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f011"
+        },
+        "name": "YORMAN ALEJANDRO",
+        "lastname": "DABOIN HERNANDEZ",
+        "dni": 33156560,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/09/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "AV. SAN MARTIN",
+        "mother": "DAYANA HERNANDEZ",
+        "mother_phone": "04261112117",
+        "father": "YORMAN DABOIN",
+        "father_phone": "04149191664",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/05/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3250
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2efed"
+        },
+        "name": "JHEAN KLEIVER",
+        "lastname": "AYALA SOLANO",
+        "dni": 33618026,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "10/24/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "EL PARAISO",
+        "mother": "ZOILA JIMENEZ",
+        "mother_phone": "04142228853",
+        "father": "PEDRO MARTINEZ",
+        "father_phone": "04127074812",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/16/2023",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "09/30/2019",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3214
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2effb"
+        },
+        "name": "EMANUEL JOSE",
+        "lastname": "MARQUES SALINAS",
+        "dni": 33259059,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "06/26/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "SAN JOSE DEL AVILA, COTIZA",
+        "father": "JOSE MARQUES",
+        "father_phone": "04241076181",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "10/16/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3228
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2efee"
+        },
+        "name": "JOSE MIGUEL",
+        "lastname": "ROSAS PALACIOS",
+        "dni": 33115618,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/17/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "EL PARAISO",
+        "mother": "BELKY HERNANDEZ",
+        "mother_phone": "04160139016",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/30/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3215
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2efec"
+        },
+        "name": "DENYERSON JOEL",
+        "lastname": "QUINTERO VARGAS",
+        "dni": 32584687,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "05/29/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "EL PARAISO",
+        "mother": "MARIA VARGAS",
+        "mother_phone": "04242690940",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "09/30/2019",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3213
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f11b"
+        },
+        "name": "ABRAHAN JOSUE",
+        "lastname": "MARCANO MESA",
+        "dni": 33158049,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/27/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "PARTE ALTA DEL PARAISO",
+        "mother": "SANDRA MESA",
+        "mother_phone": "04164279987",
+        "father": "FREDDY MARCANO",
+        "father_phone": "04242324921",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/27/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3517
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f11c"
+        },
+        "name": "FRANK STIVEN",
+        "lastname": "VELOZ ROMERO",
+        "dni": 33217914,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/20/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "SAN MARTIN",
+        "mother": "VANESA ROMERO",
+        "mother_phone": "04263121012",
+        "father": "WILLIAMS VELOZ",
+        "father_phone": "04265308243",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "12/09/2021",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "02/27/2020",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3518
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f11a"
+        },
+        "name": "WALID HASSAN",
+        "lastname": "EL HAGE",
+        "dni": 127646220,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "12/06/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "EL PARAISO",
+        "mother": "ABIR EL HAGE",
+        "mother_phone": "04129999901",
+        "father": "HASSAN EL HAGE",
+        "father_phone": "04241991333",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/27/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3516
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f117"
+        },
+        "name": "SIJASMIN ESTHER",
+        "lastname": "MERA GONZALIAS",
+        "dni": 32990712,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "11/16/2009",
+        "birth_adress": "CARACAS",
+        "gender": "female",
+        "age": 14,
+        "adress": "EL CALVARIO",
+        "mother": "PATRICIA MERA",
+        "mother_phone": "04140338017",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/27/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3513
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f116"
+        },
+        "name": "GABRIEL OKEIBER",
+        "lastname": "ALVARADO LUCAS",
+        "dni": 32731898,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/05/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "EL CALVARIO",
+        "mother": "YANETH CEDEÑO",
+        "mother_phone": "04263163448",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/27/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3512
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f115"
+        },
+        "name": "ALBERT JOSUE",
+        "lastname": "GRAJIRENA COLMENARES",
+        "dni": 32629301,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "05/03/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "LA SILSA",
+        "mother": "EMILIA COLMENARES",
+        "mother_phone": "04168141760",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/27/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3511
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f11e"
+        },
+        "name": "YORBIS ALEXANDER",
+        "lastname": "CORDERO MARTINEZ",
+        "dni": 21134706,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/02/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "SAN MARTIN",
+        "mother": "YARA CORDERO",
+        "mother_phone": "04241291318",
+        "observation": "CEDULA DE LA MADRE",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/27/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3520
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f114"
+        },
+        "name": "ENDER DANIEL",
+        "lastname": "FLORES VILLALBA",
+        "dni": 33322673,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/04/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "adress": "JARDIN BOTANICO",
+        "mother": "REBECA FLORES",
+        "mother_phone": "04242298786",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/27/2020",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3510
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f1f2"
+        },
+        "name": "SANTANDER ALFONSO",
+        "lastname": "DIAZ AZUAJE",
+        "dni": 33110190,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/30/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "EL PARAISO",
+        "mother": "MYLEDIS AZUAJE",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "03/04/2021",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3771
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f1fa"
+        },
+        "name": "CARLOS FARID",
+        "lastname": "FONTALVO BARROSO",
+        "dni": 33421466,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "01/11/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "COTA 905",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/23/2021",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3779
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f1f9"
+        },
+        "name": "JHORBBY",
+        "lastname": "ESPINOZA DIAZ",
+        "dni": 32133611,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "05/30/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 16,
+        "adress": "CEMENTERIO",
+        "father": "JHOBBY ESPINOZA",
+        "father_phone": "04120116559",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "02/23/2021",
+        "parroquia": "El Paraíso",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3778
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f22b"
+        },
+        "name": "KEINER ALEJANDRO",
+        "lastname": "OJEDA BURGUILLO",
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "11/24/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 14,
+        "mother": "VICMARIS",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "03/04/2021",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "03/04/2021",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3828,
+        "dni": null
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f2ce"
+        },
+        "name": "LUIS FERNANDO",
+        "lastname": "MEDINA MARCANO",
+        "dni": 33159604,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "09/30/2008",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "EL PARAISO",
+        "mother": "ZORAIDA MARCANO",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "08/04/2021",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "08/04/2021",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 3992
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f351"
+        },
+        "name": "ROYMAN SEBASTIAN",
+        "lastname": "SALAS YANEZ",
+        "dni": 32908742,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "04/25/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "ANTIMANO",
+        "mother": "MATIA YANEZ",
+        "mother_phone": "04121626012",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "11/15/2021",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "11/15/2021",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4123
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f363"
+        },
+        "name": "MARCO ANTONIO",
+        "lastname": "ROJAS GARRIDO",
+        "dni": 33258643,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "02/11/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LOS ROSALES",
+        "mother": "MABEL GARRIDO",
+        "mother_phone": "04141567997",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "12/09/2021",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "12/09/2021",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4141
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f357"
+        },
+        "name": "KRISTOPHER EDUARDO",
+        "lastname": "CASTAÑEDA DEPABLOS",
+        "dni": 33640830,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "05/05/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "EL VALLE",
+        "mother": "MAIRA DE PABLOS",
+        "mother_phone": "04126025035",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "11/15/2021",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "11/15/2021",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4129
+    },
+    {
+        "_id": {
+            "$oid": "66b087a0b6c99ebf3eb2f4c0"
+        },
+        "name": "EDUIN  ARON",
+        "lastname": "MOUCHE RIVERO",
+        "dni": 33462492,
+        "typePerson": "atleta",
+        "category": "INFANTIL-A",
+        "active": true,
+        "birth_date": "03/16/2009",
+        "birth_adress": "CARACAS",
+        "gender": "male",
+        "age": 15,
+        "adress": "LA VEGA",
+        "school": "E.C.D.I.D. CLUB LA ROTARIA",
+        "delegation": "ECR",
+        "ingress_date": "08/23/2022",
+        "parroquia": "El Paraíso",
+        "FECHA DE INGRESO2": "08/23/2022",
+        "sport": [
+            "FDS"
+        ],
+        "carnet": 4495
+    },
+    {
+        "_id": {
+            "$oid": "66b50e74c86d0a06970fc932"
+        },
+        "dniFile": "d950c1cd40e11ca433f5d80085c5247b.jpg",
+        "name": "Jaime",
+        "lastname": "Duran",
+        "hasDNI": "on",
+        "dni": 24940890,
+        "gender": "male",
+        "birth_date": "",
+        "birth_adress": "",
+        "email": "",
+        "phone": "",
+        "phone2": "",
+        "mother": "",
+        "mother_phone": "",
+        "father": "",
+        "father_phone": "",
+        "ingress_date": "",
+        "delegation": "ECR",
+        "typePerson": "director-tecnico",
+        "create_at": {
+            "$date": "2024-08-08T18:29:07.000Z"
+        },
+        "active": false,
+        "carnet": 5599,
+        "edit_at": {
+            "$date": "2024-08-13T15:38:38.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66bb4d86c23fd02a6f0ad50b"
+        },
+        "name": "Alberto Nazareth",
+        "lastname": "Toro Raymondi",
+        "dni": 20911527,
+        "gender": "male",
+        "birth_date": "1992-11-08",
+        "birth_adress": "Los Teques",
+        "email": "toroalbert@gmail.com",
+        "phone": "02399204488",
+        "phone2": "04143081321",
+        "mother": "Milagros Raymondi",
+        "mother_phone": "04144661432",
+        "father": "",
+        "father_phone": "",
+        "ingress_date": "",
+        "delegation": "FJ",
+        "typePerson": "director-tecnico",
+        "cargo": "Programador",
+        "create_at": {
+            "$date": "2024-08-13T12:11:50.000Z"
+        },
+        "active": false,
+        "carnet": 5598,
+        "edit_at": {
+            "$date": "2024-08-18T22:37:08.000Z"
+        },
+        "dniFile": "c24aa0f5759de6f98c7ce93ec8275a2e.png",
+        "hasDNI": true,
+        "picture": "174e2f4f916c1812d1c427cc9a0dc008.png"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "_id": {
+            "$oid": "66b50e74c86d0a06970fc932"
+        },
+        "dniFile": "d950c1cd40e11ca433f5d80085c5247b.jpg",
+        "name": "Jaime",
+        "lastname": "Duran",
+        "hasDNI": "on",
+        "dni": 24940890,
+        "gender": "male",
+        "birth_date": "",
+        "birth_adress": "",
+        "email": "",
+        "phone": "",
+        "phone2": "",
+        "mother": "",
+        "mother_phone": "",
+        "father": "",
+        "father_phone": "",
+        "ingress_date": "",
+        "delegation": "ECR",
+        "typePerson": "director-tecnico",
+        "create_at": {
+            "$date": "2024-08-08T18:29:07.000Z"
+        },
+        "active": false,
+        "carnet": 5599,
+        "edit_at": {
+            "$date": "2024-08-13T15:38:38.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66c3e8cd5fc3880b6b27b1e2"
+        },
+        "picture": "4ec20cbf2dd183b50965b524f6b90bd4.jpg",
+        "dniFile": "393e60b0ae59dd041faa3af0054621c9.jpeg",
+        "name": "Paola Andreina",
+        "lastname": "Gonzalez Salas",
+        "hasDNI": true,
+        "dni": 29698170,
+        "gender": "female",
+        "birth_date": "2002-09-21",
+        "birth_adress": "Caracas",
+        "email": "",
+        "phone2": "04143060243",
+        "typePerson": "director-tecnico",
+        "delegation": "ECR",
+        "create_at": {
+            "$date": "2024-08-20T00:52:28.000Z"
+        },
+        "active": true,
+        "carnet": 5604
+    },
+    {
+        "_id": {
+            "$oid": "66c3e9ee2fc5230284090062"
+        },
+        "picture": "f054be76c44851828aa043e4be3a7765.jpg",
+        "dniFile": "18dd42c60a98172a948625c443538f1a.jpeg",
+        "name": "Oscar Jose ",
+        "lastname": "Gonzalez",
+        "hasDNI": true,
+        "dni": 10793287,
+        "gender": "male",
+        "birth_date": "1972-07-03",
+        "birth_adress": "Caracas",
+        "email": "",
+        "phone2": "04129812936",
+        "typePerson": "director-tecnico",
+        "delegation": "FJ",
+        "create_at": {
+            "$date": "2024-08-20T00:57:17.000Z"
+        },
+        "active": false,
+        "carnet": 5605
+    },
+    {
+        "_id": {
+            "$oid": "66c3f36923ac7b00a74ff842"
+        },
+        "picture": "2c0e0ddc3873e6cb3225f66fa715d68c.jpg",
+        "dniFile": "e2d28ec530f88cb0479e976a584e458b.jpeg",
+        "name": "Oscar Alexander",
+        "lastname": "Gonzalez Salas",
+        "hasDNI": true,
+        "dni": 25417763,
+        "gender": "male",
+        "birth_date": "1997-04-25",
+        "birth_adress": "Caracas",
+        "email": "",
+        "phone2": "04142593501",
+        "typePerson": "director-tecnico",
+        "delegation": "FJ",
+        "create_at": {
+            "$date": "2024-08-20T01:37:44.000Z"
+        },
+        "active": false,
+        "carnet": 5606
+    },
+    {
+        "_id": {
+            "$oid": "66bb4d86c23fd02a6f0ad50b"
+        },
+        "name": "Alberto Nazareth",
+        "lastname": "Toro Raymondi",
+        "dni": 20911527,
+        "gender": "male",
+        "birth_date": "1992-11-08",
+        "birth_adress": "Los Teques",
+        "email": "toroalbert@gmail.com",
+        "phone": "02399204488",
+        "phone2": "04143081321",
+        "mother": "Milagros Raymondi",
+        "mother_phone": "04144661432",
+        "father": "",
+        "father_phone": "",
+        "ingress_date": "",
+        "delegation": "FJ",
+        "typePerson": "personal-amf",
+        "cargo": "Programador",
+        "create_at": {
+            "$date": "2024-08-13T12:11:50.000Z"
+        },
+        "active": false,
+        "carnet": 5598,
+        "edit_at": {
+            "$date": "2024-08-18T22:37:08.000Z"
+        },
+        "dniFile": "c24aa0f5759de6f98c7ce93ec8275a2e.png",
+        "hasDNI": true,
+        "picture": "174e2f4f916c1812d1c427cc9a0dc008.png"
+    }
+]
